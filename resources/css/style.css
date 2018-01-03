@@ -7,10 +7,27 @@ body {
 	text-align: center;
 }
 
-h1 {
+#header h1 {
 	font-weight: normal;
 	font-size: 50px;
 	color: white;
+}
+
+#main h1 {
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+#last h1 {
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+h2 {
+	font-size: 21px;
+	color: gray;
 }
 
 .download {
