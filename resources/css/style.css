@@ -30,6 +30,15 @@ body {
 	color: white;
 }
 
+#footer {
+	text-align: right;
+}
+
+#footer p {
+	font-size: 21px;
+	color: gray;
+}
+
 h2 {
 	font-size: 21px;
 	color: gray;
